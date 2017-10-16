@@ -10,10 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow "); Console.WriteLine("sdkskd");
-            int a = 1;
-
-
+            Console.WriteLine("Hellow world"); Console.WriteLine("sdkskd");
+            int a=3;
             Console.WriteLine("Hello");
         }
     }
